@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @krpuen
+- 👀 I’m interested in: Cybersecurity, Video Games, Technology
+- 🌱 I’m currently learning: Virtual Machine Management, Command Line Interface (CLI), Technology Project Management 
+- 💞️ I’m looking to collaborate on: Beginner level coding and application creation experience.
+- 📫 How to reach me: linkedin.com/in/kristianpuente
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I love cars and all things automotive.
